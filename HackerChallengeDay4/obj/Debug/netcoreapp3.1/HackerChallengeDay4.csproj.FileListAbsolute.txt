@@ -1,0 +1,14 @@
+D:\VisualStudios\HackerChallengeDay4\bin\Debug\netcoreapp3.1\HackerChallengeDay4.exe
+D:\VisualStudios\HackerChallengeDay4\bin\Debug\netcoreapp3.1\HackerChallengeDay4.deps.json
+D:\VisualStudios\HackerChallengeDay4\bin\Debug\netcoreapp3.1\HackerChallengeDay4.runtimeconfig.json
+D:\VisualStudios\HackerChallengeDay4\bin\Debug\netcoreapp3.1\HackerChallengeDay4.runtimeconfig.dev.json
+D:\VisualStudios\HackerChallengeDay4\bin\Debug\netcoreapp3.1\HackerChallengeDay4.dll
+D:\VisualStudios\HackerChallengeDay4\bin\Debug\netcoreapp3.1\HackerChallengeDay4.pdb
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.csproj.AssemblyReference.cache
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.AssemblyInfoInputs.cache
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.AssemblyInfo.cs
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.csproj.CoreCompileInputs.cache
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.dll
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.pdb
+D:\VisualStudios\HackerChallengeDay4\obj\Debug\netcoreapp3.1\HackerChallengeDay4.genruntimeconfig.cache
